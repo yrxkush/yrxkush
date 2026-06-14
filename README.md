@@ -1,6 +1,3 @@
-
-**kush dalal** &nbsp;·&nbsp; `yrxkush`
-
 occasional learning, mostly trying.
 
 `18` // `engineer` // `ai-ml`
