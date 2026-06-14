@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yrxkush/yrxkush/main/header.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/yrxkush/yrxkush/main/header.png" width="50%" alt="banner" />
 
 &nbsp;
 
