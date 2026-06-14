@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/yrxkush/yrxkush/main/header.png" width="100%" alt="banner" />
 
-<!--
-**yrxkush/yrxkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+**kush dalal** &nbsp;·&nbsp; `yrxkush`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+occasional learning, mostly trying.
+
+&nbsp;
+
+`18` // `engineer` // `ai-ml`
+
+&nbsp;
+
+<img src="https://cdn.simpleicons.org/x/ffffff" width="13" height="13" /> &nbsp; [x (twitter)](https://x.com/yrxkush?s=20)
