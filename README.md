@@ -3,7 +3,7 @@
 &nbsp;
 occasional learning, mostly trying.
 
-`AI-ML`
+`backend` // `linux` // `ai-ml`
 
 &nbsp;
 <img src="https://cdn.simpleicons.org/x/ffffff" width="10" height="10" /> &nbsp; [x (twitter)](https://x.com/yrxkush?s=20)
