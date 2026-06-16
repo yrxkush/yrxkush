@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/yrxkush/yrxkush/main/header.png" width="100%" alt="banner" />
+
+&nbsp;
 occasional learning, mostly trying.
 
 `18` // `engineer` // `ai-ml`
